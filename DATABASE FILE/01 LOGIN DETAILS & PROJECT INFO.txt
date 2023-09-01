@@ -2,7 +2,6 @@
 
 **Database Name: stockphp**
 
-**Developed by Masud Alam Rofi**
 
 **Recommended PHP Version 5.6 or Newer**
 
